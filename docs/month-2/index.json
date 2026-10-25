@@ -1,0 +1,19 @@
+{
+ "schema": 1,
+ "published": "2026-10-25T00:00:00Z/month-2",
+ "batches": [
+  {
+   "id": "2026-10",
+   "manifest": "batches/2026-10.json",
+   "sha256": "961259eb971481c9afad6ae51b626aadb3bebc9eb623d0b06740d3f11670c3be",
+   "count": 199
+  },
+  {
+   "id": "2026-09",
+   "manifest": "batches/2026-09.json",
+   "sha256": "e4eb144fd72a7a73d1d5f747de6a4ba128d29c2bb38156e9f1328704993135e1",
+   "count": 700
+  }
+ ],
+ "revoked": []
+}
